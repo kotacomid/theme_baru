@@ -1,0 +1,19 @@
+/*
+Theme Name: Blocksy Child - Temoakte Custom
+Description: Child theme for Blocksy with custom templates and styles.
+Author: Temoakte
+Template: blocksy
+Version: 2.0.0
+*/
+
+/* File ini digunakan untuk informasi tema.
+    Semua gaya utama dimuat dari /assets/css/app.css melalui functions.php.
+    Anda bisa menambahkan gaya kustom di sini jika diperlukan.
+*/
+.temoakte-content {
+    max-width: 1280px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+}
